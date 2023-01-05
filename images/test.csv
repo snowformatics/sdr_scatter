@@ -1,0 +1,3 @@
+Meteor Start Date (YYYY/MM/DD)	Meteor Start Time (hh:mm:ss)	Current daily meteor count (integer)	Peak Meteor Signal (float, dB)	Peak Meteor Noise (float, dB)	Peak Meteor Signal to Noise Ratio (float, dB)	Peak Meteor Frequency (integer, Hz)	Meteor Duration (float, seconds)	ROI
+20230103	144833	3	-62,3	-84	21,6	2076,9	0,1	#APP_FILES#event20230103_144901_3.jpg
+20230103	150446	4	-49	-84	35,1	2028,5	1,3	#APP_FILES#event20230103_150514_4.jpg
