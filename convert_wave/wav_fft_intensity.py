@@ -1,9 +1,9 @@
 import librosa
 import matplotlib.pyplot as plt
 import librosa.display
-audio_data = 'event20230121_165504_23.wav'
+audio_data = 'event20230131_101027_26.wav'
 x , sr = librosa.load(audio_data)
-print(type(x), type(sr))#<class 'numpy.ndarray'> <class 'int'>print(x.shape, sr)#(94316,) 22050
+#print(type(x), type(sr))#<class 'numpy.ndarray'> <class 'int'>print(x.shape, sr)#(94316,) 22050
 
 
 
